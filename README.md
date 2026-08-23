@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Dejameir Bagot 👋
 
-<!--
-**DejameirB/DejameirB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Integration Fellow @ The Knowledge House** | Python Developer & Systems Integrator
 
-Here are some ideas to get you started:
+I specialize in building compound AI systems, multi-agent pipelines, and RAG architectures in Python. With a background bridging data analytics, systems operations, and digital media, I focus on turning complex data logic into clean, reliable AI workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Tools
+
+* **Languages:** Python, SQL (SQLite)
+* **AI & Machine Learning:** Pydantic, Vector Databases (ChromaDB), RAG Architectures, Multi-Agent Frameworks
+* **Data Science & Tools:** Pandas, NumPy, Jupyter Notebooks, Streamlit
+* **Development & Systems:** Git/GitHub, REST API Integration, VS Code, Technical Support
+
+---
+
+### 🔗 Connect & Contact
+
+* 💼 **LinkedIn:** [linkedin.com/in/dejameir](https://www.linkedin.com/in/dejameir)
+* 📧 **Email:** dejameir99@gmail.com
+
+---
+
+> *Currently completing the Innovation Fellowship at The Knowledge House, building production-ready AI pipelines and intelligent agent architectures.*

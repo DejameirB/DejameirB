@@ -1,8 +1,9 @@
 # Hi, I'm Dejameir Bagot 👋
 
-**AI Integration Fellow @ The Knowledge House** | Python Developer & Systems Integrator
+**Target Role:** Entry-Level AI / Python Developer
+**Current Program:** AI Integration Fellow @ The Knowledge House
 
-I specialize in building compound AI systems, multi-agent pipelines, and RAG architectures in Python. With a background bridging data analytics, systems operations, and digital media, I focus on turning complex data logic into clean, reliable AI workflows.
+I build Python applications, automated workflows, and practical AI tools. After transitioning into software engineering, I've focused on mastering core Python, multi-agent frameworks, and RAG architectures—building reliable systems that turn complex data into usable solutions.
 
 ---
 

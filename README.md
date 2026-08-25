@@ -1,6 +1,6 @@
 # Hi, I'm Dejameir Bagot 👋
 
-**Target Role:** Entry-Level AI / Python Developer
+**Target Role:** Entry-Level AI / Python Developer  
 **Current Program:** AI Integration Fellow @ The Knowledge House
 
 I build Python applications, automated workflows, and practical AI tools. After transitioning into software engineering, I've focused on mastering core Python, multi-agent frameworks, and RAG architectures—building reliable systems that turn complex data into usable solutions.
@@ -19,7 +19,7 @@ I build Python applications, automated workflows, and practical AI tools. After 
 ### 🔗 Connect & Contact
 
 * 💼 **LinkedIn:** [linkedin.com/in/dejameir](https://www.linkedin.com/in/dejameir)
-* 📄 **Resume:** [View Resume (PDF) (https://raw.githubusercontent.com/DejameirB/resume/main/Dejameir-Bagot_Resume.pdf)
+* 📄 **Resume:** [View Resume (PDF)](https://raw.githubusercontent.com/DejameirB/resume/main/Dejameir-Bagot_Resume.pdf)
 * 📧 **Email:** dejameir99@gmail.com
 
 ---

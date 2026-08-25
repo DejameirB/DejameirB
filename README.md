@@ -18,7 +18,7 @@ I specialize in building compound AI systems, multi-agent pipelines, and RAG arc
 ### 🔗 Connect & Contact
 
 * 💼 **LinkedIn:** [linkedin.com/in/dejameir](https://www.linkedin.com/in/dejameir)
-* 📝 **Resume:** 
+* 📝 **Resume:** file:///C:/Users/19732/Desktop/Dejameir-Bagot_Resume.pdf
 * 📧 **Email:** dejameir99@gmail.com
 
 ---

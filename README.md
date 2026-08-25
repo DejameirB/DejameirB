@@ -19,7 +19,7 @@ I build Python applications, automated workflows, and practical AI tools. After 
 ### 🔗 Connect & Contact
 
 * 💼 **LinkedIn:** [linkedin.com/in/dejameir](https://www.linkedin.com/in/dejameir)
-* 📝 **Resume:** https://github.com/DejameirB/resume/blob/5f7065c38e6ff9d7772ede1411cf547555a095ef/Dejameir-Bagot_Resume.pdf
+* 📄 **Resume:** [View Resume (PDF) (https://raw.githubusercontent.com/DejameirB/resume/main/Dejameir-Bagot_Resume.pdf)
 * 📧 **Email:** dejameir99@gmail.com
 
 ---
